@@ -1,0 +1,366 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_4AA4226B_5EE9_BBD2_41D7_93443020E72E.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
+
+## E-Learning
+
+### Answer
+questionOption_96A1024E_834F_5C1B_41D7_D929F55205E8.text = Buy a ticket
+questionOption_9A2A03E6_83D7_3C0A_41CB_211C33A31F7A.text = In DustBin
+questionOption_989ECB96_8355_2C0A_41D3_3BBAE91A04E0.text = No
+questionOption_9F25F4F3_834D_240A_41BC_E2E95005C551.text = No
+questionOption_9A4FBE42_83D7_640B_41D2_E5E53E116BF3.text = On the ground
+questionOption_94D4921F_83B4_DC3A_41B9_BF3BF7AEBD63.text = Roam around
+questionOption_988C0608_83FD_6407_41D3_80F3DFAA63FD.text = Sit and have a sip of water
+questionOption_9B0980BA_83FD_3C7A_41DE_718DA363E004.text = Stand
+questionOption_949BF90F_83B7_2C1A_41D3_F83359D656AD.text = Stand in the queue
+questionOption_95459A69_834F_EC06_41C8_DB14767287FD.text = Watch cartoon
+questionOption_98C1C1D6_8357_DC0A_41AD_4DFD09F15E72.text = Yes
+questionOption_9F70399B_834D_6C3A_41D3_6A24FB19C613.text = Yes
+
+### Question
+question_996896EE_8357_641A_41DA_77FE9E4B2DE9.title = Do you want to see the park map?
+question_9FB6BFCC_834D_E41E_41B6_2D2249D993D9.title = Should you pluck the leaves?
+question_96417F93_834D_2409_41D7_353BDD8014F8.title = What do you do before entering the park ?
+question_9A705151_83FB_FC06_41DF_D87A058699D4.title = What do you do if you are tired ?
+question_954712A5_83B7_3C0E_41CD_7A76A4534B3A.title = What do you do near the entrance?
+question_99ECA9B1_83D4_EC09_41D2_0CE97E528EA7.title = Where will you throw the waste?
+
+### Question Screen
+quizQuestion_96BAB985_834D_6C09_4191_7BF2524F1AEE.ok = OK
+
+### Report Screen
+quizScore_96B94985_834D_6C08_41C5_037DEFDC7FB7.title = - SCORE -
+quizScore_96B94985_834D_6C08_41C5_037DEFDC7FB7.completion = Completed
+quizScore_96B94985_834D_6C08_41C5_037DEFDC7FB7.questionsCorrect = Correct
+quizScore_96B94985_834D_6C08_41C5_037DEFDC7FB7.downloadCSV = Download .csv
+quizScore_96B94985_834D_6C08_41C5_037DEFDC7FB7.questionsIncorrect = Incorrect
+quizScore_96B94985_834D_6C08_41C5_037DEFDC7FB7.items = Items Found
+quizScore_96B94985_834D_6C08_41C5_037DEFDC7FB7.questions = Questions
+quizScore_96B94985_834D_6C08_41C5_037DEFDC7FB7.repeat = Repeat
+quizScore_96B94985_834D_6C08_41C5_037DEFDC7FB7.submitToLMS = Submit
+quizScore_96B94985_834D_6C08_41C5_037DEFDC7FB7.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+score2.label = all-items
+
+### Timeout Screen
+quizTimeout_96BAA983_834D_6C09_41C4_3F27EFF106C3.title = - TIMEOUT -
+quizTimeout_96BAA983_834D_6C09_41C4_3F27EFF106C3.repeat = Repeat
+quizTimeout_96BAA983_834D_6C09_41C4_3F27EFF106C3.score = View Score
+
+## Media
+
+### Image
+imlevel_96218842_834D_2C0A_41D7_9120579C97BD.url = media/popup_900F2499_8377_E439_41D7_A5851C2C3550_en_0_0.jpeg
+imlevel_96219842_834D_2C0A_41AE_F01BB7CF19F9.url = media/popup_900F2499_8377_E439_41D7_A5851C2C3550_en_0_1.jpeg
+imlevel_96216842_834D_2C0A_41D6_FE7D6F271179.url = media/popup_900F2499_8377_E439_41D7_A5851C2C3550_en_0_2.jpeg
+imlevel_934E6E5C_8315_994C_41C3_A3972A5B88BB.url = media/popup_92188CB7_8312_99DC_41D3_F621AD22440E_en_0_0.jpeg
+imlevel_934E7E5C_8315_994C_41B3_536392BA315B.url = media/popup_92188CB7_8312_99DC_41D3_F621AD22440E_en_0_1.jpeg
+imlevel_934F7E5C_8315_994C_41DE_A9CFF258BE04.url = media/popup_92188CB7_8312_99DC_41D3_F621AD22440E_en_0_2.jpeg
+imlevel_993D86B0_835F_E406_41D5_43DBC8CB1827.url = media/popup_99292F83_834B_640A_41B9_938C5BF64F18_en_0_0.png
+imlevel_993386B1_835F_E406_417C_E82E3B32955F.url = media/popup_99292F83_834B_640A_41B9_938C5BF64F18_en_0_1.png
+imlevel_993396B1_835F_E406_41DF_B95400A475BB.url = media/popup_99292F83_834B_640A_41B9_938C5BF64F18_en_0_2.png
+imlevel_9933A6B1_835F_E406_419B_9457F701804B.url = media/popup_99292F83_834B_640A_41B9_938C5BF64F18_en_0_3.png
+imlevel_CE8CD685_C13A_CD3A_41DF_10317A38178B.url = media/zoomImage_9EFE04CD_834F_641E_41A6_8B7F1AB609C2_en_0_0.jpeg
+imlevel_CE8CC685_C13A_CD3A_41D5_4118B57B2E83.url = media/zoomImage_9EFE04CD_834F_641E_41A6_8B7F1AB609C2_en_0_1.jpeg
+imlevel_CE8C1685_C13A_CD3A_4138_F543435AEC86.url = media/zoomImage_9EFE04CD_834F_641E_41A6_8B7F1AB609C2_en_0_2.jpeg
+
+### Popup Image
+
+### Title
+album_6E46179E_7F57_524B_41D7_009B81E9EEC5_0.label = Img3
+album_6E46179E_7F57_524B_41D7_009B81E9EEC5.label = Photo Album Img3
+album_8C71DA54_82F2_995D_41DB_873558D251AB.label = Photo Album map
+album_9501950E_8355_E41B_41CF_B9358EE043DA.label = Photo Album pop-up1
+video_9F507C58_837D_6407_41D3_9FAE01C14ADC.label = VID20220926130023
+video_9EA0A11A_8374_DC3B_41CC_C290F429D653.label = VID20220926131206
+video_9566D0C9_87E5_6CDA_41AB_F222F61059C6.label = VID20220926131206-converted
+video_9A187359_83CB_7C06_41DE_1CE4AFDEF8C6.label = VID20220926135629
+video_94A6D7B0_87E5_754A_41BF_4B9A40059847.label = VID20220926135629-converted
+video_9972D898_83DD_2C06_41D4_D3C3E8321C44.label = VID20220926135857
+video_9449CF2B_87FC_955F_41CE_91D7E7613E41.label = VID20220926135857-converted
+video_95123B94_87E4_BD4A_419F_8EB6AE65045A.label = VID_20220926_132039
+video_964EEF76_87BC_95B6_41A4_256584AC2F89.label = VID_20220926_132039
+video_972C5CED_87A4_94DB_41CC_F891149A7F36.label = VID_20220926_133005
+video_9EC9A967_834F_EC0A_41B7_3EA1B5689CEC.label = VID_20220926_133005
+video_99A97830_83F5_2C06_41D0_88C92067DDDD.label = VID_20220926_134759
+video_9624C293_87FC_AF4E_41C0_5085A7692C8C.label = VID_20220926_134759-converted
+video_9F964611_8377_2409_416F_6B79DCFB6C58.label = VID_20220926_134929
+video_93CA5E12_87FD_F749_41D1_077ADB4CDFCF.label = VID_20220926_134929-converted
+video_9FA1E1A4_8374_DC0F_41CD_0D7E33E3FC7D.label = VID_20220926_135059
+video_956F6F3E_87E4_95B6_41E0_A75121D725F4.label = VID_20220926_135059-converted
+video_9A4091A1_83DD_DC09_41AF_0D92780B08AD.label = VID_20220926_140724
+video_9531B867_87E5_9BD6_41D8_99FA408B09A6.label = VID_20220926_140724-converted
+video_99722757_83DF_E409_41D7_C5E4AD31E449.label = VID_20220926_140818
+video_94FF316E_87E4_ADD9_41DB_8E8FC2E59CBD.label = VID_20220926_140858
+video_99601CA2_83B5_240A_41D8_A7288E9AE5B1.label = VID_20220926_144448
+video_946E0945_87E7_9DCA_41D0_1AFF0EAD70BE.label = VID_20220926_144448-converted
+video_972FA35D_87A4_ADFA_41D6_39D5DE4AC239.label = copyVID_20220926_133039
+panorama_732F6FB9_7F7F_5249_41DA_6E9204E6A4F9.label = img1
+panorama_727E06C5_7F7D_323B_41A3_B2ED8B868B6C.label = img10
+panorama_727ED835_7F7D_DE58_41C9_E423CE16B808.label = img11
+panorama_727F7EEA_7F7D_F3C8_41DF_46597BF23C46.label = img12
+panorama_727FA1EC_7F7D_31C8_41AC_213F074511FA.label = img13
+panorama_727DD4BB_7F7F_5648_41DD_487C9AD53D81.label = img2
+panorama_727E33B1_7F7C_D259_41D5_981DF532C96E.label = img4
+panorama_727E7802_7F7C_FE38_41D8_91792F22BD21.label = img5
+panorama_727E1DF7_7F7D_31D8_41DE_CF6076E7376D.label = img7
+panorama_727FD357_7F7D_72D8_41D3_EF909C810918.label = img8
+panorama_727EE58E_7F7D_5648_41C2_4C7394C1E345.label = img9
+album_8C71DA54_82F2_995D_41DB_873558D251AB_0.label = map
+album_9501950E_8355_E41B_41CF_B9358EE043DA_0.label = pop-up1
+panorama_97D54DF7_8377_2409_41DC_06652B7541A3.label = ticket
+
+### Video
+videolevel_CEA8A186_C13A_C739_41E0_92D6C018B464.url = media/video_93CA5E12_87FD_F749_41D1_077ADB4CDFCF_en.mp4
+videolevel_CEA8A186_C13A_C739_41E0_92D6C018B464.posterURL = media/video_93CA5E12_87FD_F749_41D1_077ADB4CDFCF_poster_en.jpg
+videolevel_CEABE1BB_C13A_C74E_41B5_5CFB7F44AFB7.url = media/video_9449CF2B_87FC_955F_41CE_91D7E7613E41_en.mp4
+videolevel_CEABE1BB_C13A_C74E_41B5_5CFB7F44AFB7.posterURL = media/video_9449CF2B_87FC_955F_41CE_91D7E7613E41_poster_en.jpg
+videolevel_CEA7C2BE_C13A_C547_41E6_DE1D99956F47.url = media/video_946E0945_87E7_9DCA_41D0_1AFF0EAD70BE_en.mp4
+videolevel_CEA7C2BE_C13A_C547_41E6_DE1D99956F47.posterURL = media/video_946E0945_87E7_9DCA_41D0_1AFF0EAD70BE_poster_en.jpg
+videolevel_CEAF80F0_C13A_C6DA_41DD_6D7B39AD4245.url = media/video_94A6D7B0_87E5_754A_41BF_4B9A40059847_en.mp4
+videolevel_CEAF80F0_C13A_C6DA_41DD_6D7B39AD4245.posterURL = media/video_94A6D7B0_87E5_754A_41BF_4B9A40059847_poster_en.jpg
+videolevel_CEA6430C_C13A_CB4A_41E1_5C7EF2BF5E6A.url = media/video_94FF316E_87E4_ADD9_41DB_8E8FC2E59CBD_en.mp4
+videolevel_CEA6430C_C13A_CB4A_41E1_5C7EF2BF5E6A.posterURL = media/video_94FF316E_87E4_ADD9_41DB_8E8FC2E59CBD_poster_en.jpg
+videolevel_CEB2007C_C13A_C5CA_41E6_EF979612CAE6.url = media/video_95123B94_87E4_BD4A_419F_8EB6AE65045A_en.mp4
+videolevel_CEB2007C_C13A_C5CA_41E6_EF979612CAE6.posterURL = media/video_95123B94_87E4_BD4A_419F_8EB6AE65045A_poster_en.jpg
+videolevel_CEAA7231_C13A_C55A_41D6_F1504F0C8848.url = media/video_9531B867_87E5_9BD6_41D8_99FA408B09A6_en.mp4
+videolevel_CEAA7231_C13A_C55A_41D6_F1504F0C8848.posterURL = media/video_9531B867_87E5_9BD6_41D8_99FA408B09A6_poster_en.jpg
+videolevel_CEAD60C9_C13A_C6CA_41DB_F08B88D1A719.url = media/video_9566D0C9_87E5_6CDA_41AB_F222F61059C6_en.mp4
+videolevel_CEAD60C9_C13A_C6CA_41DB_F08B88D1A719.posterURL = media/video_9566D0C9_87E5_6CDA_41AB_F222F61059C6_poster_en.jpg
+videolevel_CEA4826E_C13A_C5C6_41B6_04DA9166337A.url = media/video_956F6F3E_87E4_95B6_41E0_A75121D725F4_en.mp4
+videolevel_CEA4826E_C13A_C5C6_41B6_04DA9166337A.posterURL = media/video_956F6F3E_87E4_95B6_41E0_A75121D725F4_poster_en.jpg
+videolevel_CEAE713E_C13A_C746_41C5_FD158CFEB7F3.url = media/video_9624C293_87FC_AF4E_41C0_5085A7692C8C_en.mp4
+videolevel_CEAE713E_C13A_C746_41C5_FD158CFEB7F3.posterURL = media/video_9624C293_87FC_AF4E_41C0_5085A7692C8C_poster_en.jpg
+videolevel_CEB3C051_C13A_C5DA_41B1_E0C2285E10A3.url = media/video_964EEF76_87BC_95B6_41A4_256584AC2F89_en.mp4
+videolevel_CEB3C051_C13A_C5DA_41B1_E0C2285E10A3.posterURL = media/video_964EEF76_87BC_95B6_41A4_256584AC2F89_poster_en.jpg
+videolevel_CEB66FCE_C13A_DAC6_41E0_61AAD2333712.url = media/video_972C5CED_87A4_94DB_41CC_F891149A7F36_en.mp4
+videolevel_CEB66FCE_C13A_DAC6_41E0_61AAD2333712.posterURL = media/video_972C5CED_87A4_94DB_41CC_F891149A7F36_poster_en.jpg
+videolevel_CEB0B01B_C13A_C54E_41D5_AA83D10FC199.url = media/video_972FA35D_87A4_ADFA_41D6_39D5DE4AC239_en.mp4
+videolevel_CEB0B01B_C13A_C54E_41D5_AA83D10FC199.posterURL = media/video_972FA35D_87A4_ADFA_41D6_39D5DE4AC239_poster_en.jpg
+videolevel_CEBE4DD7_C13A_DEC6_41BF_8CBD175FFD07.url = media/video_99601CA2_83B5_240A_41D8_A7288E9AE5B1_en.mp4
+videolevel_CEBE4DD7_C13A_DEC6_41BF_8CBD175FFD07.posterURL = media/video_99601CA2_83B5_240A_41D8_A7288E9AE5B1_poster_en.jpg
+videolevel_CEBC9D10_C13A_DF5A_41B1_06C3BD05D8EC.url = media/video_99722757_83DF_E409_41D7_C5E4AD31E449_en.mp4
+videolevel_CEBC9D10_C13A_DF5A_41B1_06C3BD05D8EC.posterURL = media/video_99722757_83DF_E409_41D7_C5E4AD31E449_poster_en.jpg
+videolevel_CEBDECDB_C13A_DECE_41C8_DEB33DBB4980.url = media/video_9972D898_83DD_2C06_41D4_D3C3E8321C44_en.mp4
+videolevel_CEBDECDB_C13A_DECE_41C8_DEB33DBB4980.posterURL = media/video_9972D898_83DD_2C06_41D4_D3C3E8321C44_poster_en.jpg
+videolevel_CE407C31_C13A_DD5A_41D3_D85CA7D6C992.url = media/video_99A97830_83F5_2C06_41D0_88C92067DDDD_en.mp4
+videolevel_CE407C31_C13A_DD5A_41D3_D85CA7D6C992.posterURL = media/video_99A97830_83F5_2C06_41D0_88C92067DDDD_poster_en.jpg
+videolevel_CE42BC7D_C13A_DDCA_41DA_59064FF754E9.url = media/video_9A187359_83CB_7C06_41DE_1CE4AFDEF8C6_en.mp4
+videolevel_CE42BC7D_C13A_DDCA_41DA_59064FF754E9.posterURL = media/video_9A187359_83CB_7C06_41DE_1CE4AFDEF8C6_poster_en.jpg
+videolevel_CEBF1D78_C13A_DFCA_41E0_7C49E683E776.url = media/video_9A4091A1_83DD_DC09_41AF_0D92780B08AD_en.mp4
+videolevel_CEBF1D78_C13A_DFCA_41E0_7C49E683E776.posterURL = media/video_9A4091A1_83DD_DC09_41AF_0D92780B08AD_poster_en.jpg
+videolevel_CEB4AF2B_C13A_DB4E_41E2_349B7004E274.url = media/video_9EA0A11A_8374_DC3B_41CC_C290F429D653_en.mp4
+videolevel_CEB4AF2B_C13A_DB4E_41E2_349B7004E274.posterURL = media/video_9EA0A11A_8374_DC3B_41CC_C290F429D653_poster_en.jpg
+videolevel_CEB7FF6D_C13A_DBCA_41E4_9E1E369D1047.url = media/video_9EC9A967_834F_EC0A_41B7_3EA1B5689CEC_en.mp4
+videolevel_CEB7FF6D_C13A_DBCA_41E4_9E1E369D1047.posterURL = media/video_9EC9A967_834F_EC0A_41B7_3EA1B5689CEC_poster_en.jpg
+videolevel_CEBA1ED1_C13A_DADA_41E6_395E8F2BBB1A.url = media/video_9F507C58_837D_6407_41D3_9FAE01C14ADC_en.mp4
+videolevel_CEBA1ED1_C13A_DADA_41E6_395E8F2BBB1A.posterURL = media/video_9F507C58_837D_6407_41D3_9FAE01C14ADC_poster_en.jpg
+videolevel_CEB8FE44_C13A_DD3A_41E3_249FF597CAB9.url = media/video_9F964611_8377_2409_416F_6B79DCFB6C58_en.mp4
+videolevel_CEB8FE44_C13A_DD3A_41E3_249FF597CAB9.posterURL = media/video_9F964611_8377_2409_416F_6B79DCFB6C58_poster_en.jpg
+videolevel_CEBB2E83_C13A_DD3E_41D4_844AD1244457.url = media/video_9FA1E1A4_8374_DC0F_41CD_0D7E33E3FC7D_en.mp4
+videolevel_CEBB2E83_C13A_DD3E_41D4_844AD1244457.posterURL = media/video_9FA1E1A4_8374_DC0F_41CD_0D7E33E3FC7D_poster_en.jpg
+
+## Popup
+
+### Body
+htmlText_90E3DC1B_8810_E815_41C0_08769BD70442.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Miyapur-Gachibowli Highway500033, Hyderabad, Telangana 500033 · </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">040 23372977</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">hyd.co.in</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Open · Closes 19:00</SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Button
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = AI FOR AI
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.label = AMENITIES >
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.pressedLabel = AMENITIES >
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B.label = BACK
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B_mobile.label = BACK
+Button_168CA310_3106_01EC_41C7_72CE0522951A_mobile.label = BACK
+Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C_mobile.label = BACK
+Button_175A5214_31FA_0014_4198_930DF49BADD9_mobile.label = BACK
+Button_1757CD7D_31FA_0015_4143_A9E37B16A50B_mobile.label = BACK
+Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C.label = BACK
+Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1.label = BACK
+Button_175A5214_31FA_0014_4198_930DF49BADD9.label = BACK
+Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1_mobile.label = BACK
+Button_168CA310_3106_01EC_41C7_72CE0522951A.label = BACK
+Button_1757CD7D_31FA_0015_4143_A9E37B16A50B.label = BACK
+Button_2A2C553C_310E_0014_41C4_86393D0ADCC7_mobile.label = Bar
+Button_2A2C553C_310E_0014_41C4_86393D0ADCC7.label = Bar
+Button_15EF2665_3106_0035_41AE_9BACA1A48D02.label = Chill Out
+Button_15EF2665_3106_0035_41AE_9BACA1A48D02_mobile.label = Chill Out
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = CognitiveBotics
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9.label = Garden
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9_mobile.label = Garden
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = LOREM IPSUM
+Button_4C0CCCF8_5EE8_88BE_41D7_AE304B421CBB.label = LOREM IPSUM
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD.label = Lobby
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD_mobile.label = Lobby
+Button_159E8DDD_31FA_0014_41C5_F18F441AF371.label = Lorem Ipsum
+Button_1757AD7D_31FA_0015_41C7_FB79F56FA149.label = Lorem Ipsum
+Button_17565D7D_31FA_0015_4193_78BBCB2DC70F.label = Lorem Ipsum
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52.pressedLabel = Lorem Ipsum
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52.label = Lorem Ipsum
+Button_17567D7D_31FA_0015_41C2_1E0D0AF05C7A.label = Lorem Ipsum
+Button_17566D7D_31FA_0015_41AD_98D7C60C694F.label = Lorem Ipsum
+Button_159E9DDC_31FA_0015_41B6_CB1D433C7673.label = Lorem Ipsum
+Button_17560D7D_31FA_0015_41C4_7F0EC7540CC2.label = Lorem Ipsum
+Button_17562D7D_31FA_0015_41A3_96B282B30DBA.label = Lorem Ipsum
+Button_1756DD7D_31FA_0015_41A5_988B67FCF8B7.label = Lorem Ipsum
+Button_1756FD7D_31FA_0015_41C7_DA2AAC2AAAEC.label = Lorem Ipsum
+Button_159EEDDC_31FA_0014_41B6_22A86B2D2FEB.label = Lorem Ipsum
+Button_17597215_31FA_0014_41C0_9BEE1DE4D7F6.label = Lorem Ipsum
+Button_159ECDDC_31FA_0014_41B9_2D5AB1021813.label = Lorem Ipsum
+Button_159EDDDC_31FA_0014_419A_61C18E43FE01.label = Lorem Ipsum
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F.label = Lorem Ipsum
+Button_1759D215_31FA_0014_41AD_B6C5744A0B97.label = Lorem Ipsum
+Button_17593215_31FA_0014_41C0_42BAFB0080F0.label = Lorem Ipsum
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F.pressedLabel = Lorem Ipsum
+Button_17590215_31FA_0014_41C1_2B2D012DCC76.label = Lorem Ipsum
+Button_159EBDDD_31FA_0014_41C8_935504B30727.label = Lorem Ipsum
+Button_17596215_31FA_0014_41C6_A42670770708.label = Lorem Ipsum
+Button_1758B215_31FA_0014_41BC_C4EAC2A9544B.label = Lorem Ipsum
+Button_15A13DDC_31FA_0014_41C5_41AE80876834.label = Lorem Ipsum
+Button_17EAB2B7_3106_0014_41A7_209417AD3E9A.label = Lorem Ipsum
+Button_17EAD2B7_3106_0014_41C0_0B5453B4841D.label = Lorem Ipsum
+Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0.pressedLabel = Lorem Ipsum
+Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0.label = Lorem Ipsum
+Button_17EB02B7_3106_0014_41AF_05D9AC36B189.label = Lorem Ipsum
+Button_17EB32B7_3106_0014_41C8_467BF6AECBE8.label = Lorem Ipsum
+Button_15A10DDC_31FA_0014_4185_021C898E177D.label = Lorem Ipsum
+Button_17EB52B7_3106_0014_419C_439E593AEC43.label = Lorem Ipsum
+Button_17EB62B7_3106_0014_41C5_43B38271B353.label = Lorem Ipsum
+Button_17EB72B7_3106_0014_41B9_61857077BF4A.label = Lorem Ipsum
+Button_17EB92B7_3106_0014_41B2_34A3E3F63779.label = Lorem Ipsum
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA.label = Lorem Ipsum
+Button_168D6310_3106_01EC_41B8_A0B6BE627547.label = Lorem Ipsum
+Button_168D5310_3106_01EC_41B5_96D9387401B8.label = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5.pressedLabel = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5.label = Lorem Ipsum
+Button_168D2310_3106_01EC_41B8_9D7D1B2B55FA.label = Lorem Ipsum
+Button_168D0310_3106_01EC_41A1_FA8FC42E6FF3.label = Lorem Ipsum
+Button_1759F215_31FA_0014_41BD_BBFA5FB0D882.pressedLabel = Lorem Ipsum
+Button_168DD310_3106_01EC_4190_7815FA70349E.label = Lorem Ipsum
+Button_168DB310_3106_01EC_41B2_3511AA5E40E1.label = Lorem Ipsum
+Button_168DA310_3106_01EC_41BE_DF88732C2A28.label = Lorem Ipsum
+Button_168D9311_3106_01EC_41A8_3BD8769525D6.label = Lorem Ipsum
+Button_1759F215_31FA_0014_41BD_BBFA5FB0D882.label = Lorem Ipsum
+Button_1759A215_31FA_0014_41C7_F6B1044E5BB3.label = Lorem Ipsum
+Button_17598215_31FA_0014_41AC_1166AB319171.label = Lorem Ipsum
+Button_168DB310_3106_01EC_41B2_3511AA5E40E1_mobile.label = Lorem Ipsum
+Button_17560D7D_31FA_0015_41C4_7F0EC7540CC2_mobile.label = Lorem Ipsum
+Button_17565D7D_31FA_0015_4193_78BBCB2DC70F_mobile.label = Lorem Ipsum
+Button_168D9311_3106_01EC_41A8_3BD8769525D6_mobile.label = Lorem Ipsum
+Button_168DD310_3106_01EC_4190_7815FA70349E_mobile.label = Lorem Ipsum
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52_mobile.label = Lorem Ipsum
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52_mobile.pressedLabel = Lorem Ipsum
+Button_17EB32B7_3106_0014_41C8_467BF6AECBE8_mobile.label = Lorem Ipsum
+Button_168D0310_3106_01EC_41A1_FA8FC42E6FF3_mobile.label = Lorem Ipsum
+Button_168D2310_3106_01EC_41B8_9D7D1B2B55FA_mobile.label = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5_mobile.label = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5_mobile.pressedLabel = Lorem Ipsum
+Button_17566D7D_31FA_0015_41AD_98D7C60C694F_mobile.label = Lorem Ipsum
+Button_17567D7D_31FA_0015_41C2_1E0D0AF05C7A_mobile.label = Lorem Ipsum
+Button_168DA310_3106_01EC_41BE_DF88732C2A28_mobile.label = Lorem Ipsum
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9_mobile.pressedLabel = Lorem Ipsum
+Button_17EB02B7_3106_0014_41AF_05D9AC36B189_mobile.label = Lorem Ipsum
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA_mobile.label = Lorem Ipsum
+Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0_mobile.pressedLabel = Lorem Ipsum
+Button_15A10DDC_31FA_0014_4185_021C898E177D_mobile.label = Lorem Ipsum
+Button_15A13DDC_31FA_0014_41C5_41AE80876834_mobile.label = Lorem Ipsum
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F_mobile.pressedLabel = Lorem Ipsum
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F_mobile.label = Lorem Ipsum
+Button_159EDDDC_31FA_0014_419A_61C18E43FE01_mobile.label = Lorem Ipsum
+Button_159ECDDC_31FA_0014_41B9_2D5AB1021813_mobile.label = Lorem Ipsum
+Button_1756DD7D_31FA_0015_41A5_988B67FCF8B7_mobile.label = Lorem Ipsum
+Button_159EEDDC_31FA_0014_41B6_22A86B2D2FEB_mobile.label = Lorem Ipsum
+Button_159E9DDC_31FA_0015_41B6_CB1D433C7673_mobile.label = Lorem Ipsum
+Button_159E8DDD_31FA_0014_41C5_F18F441AF371_mobile.label = Lorem Ipsum
+Button_159EBDDD_31FA_0014_41C8_935504B30727_mobile.label = Lorem Ipsum
+Button_168D5310_3106_01EC_41B5_96D9387401B8_mobile.label = Lorem Ipsum
+Button_1757AD7D_31FA_0015_41C7_FB79F56FA149_mobile.label = Lorem Ipsum
+Button_17EB62B7_3106_0014_41C5_43B38271B353_mobile.label = Lorem Ipsum
+Button_17598215_31FA_0014_41AC_1166AB319171_mobile.label = Lorem Ipsum
+Button_17EB52B7_3106_0014_419C_439E593AEC43_mobile.label = Lorem Ipsum
+Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0_mobile.label = Lorem Ipsum
+Button_17EAB2B7_3106_0014_41A7_209417AD3E9A_mobile.label = Lorem Ipsum
+Button_17EAD2B7_3106_0014_41C0_0B5453B4841D_mobile.label = Lorem Ipsum
+Button_168D6310_3106_01EC_41B8_A0B6BE627547_mobile.label = Lorem Ipsum
+Button_17562D7D_31FA_0015_41A3_96B282B30DBA_mobile.label = Lorem Ipsum
+Button_1759D215_31FA_0014_41AD_B6C5744A0B97_mobile.label = Lorem Ipsum
+Button_1756FD7D_31FA_0015_41C7_DA2AAC2AAAEC_mobile.label = Lorem Ipsum
+Button_17EB92B7_3106_0014_41B2_34A3E3F63779_mobile.label = Lorem Ipsum
+Button_1759A215_31FA_0014_41C7_F6B1044E5BB3_mobile.label = Lorem Ipsum
+Button_17593215_31FA_0014_41C0_42BAFB0080F0_mobile.label = Lorem Ipsum
+Button_1759F215_31FA_0014_41BD_BBFA5FB0D882_mobile.pressedLabel = Lorem Ipsum
+Button_1759F215_31FA_0014_41BD_BBFA5FB0D882_mobile.label = Lorem Ipsum
+Button_17590215_31FA_0014_41C1_2B2D012DCC76_mobile.label = Lorem Ipsum
+Button_1758B215_31FA_0014_41BC_C4EAC2A9544B_mobile.label = Lorem Ipsum
+Button_17EB72B7_3106_0014_41B9_61857077BF4A_mobile.label = Lorem Ipsum
+Button_17597215_31FA_0014_41C0_9BEE1DE4D7F6_mobile.label = Lorem Ipsum
+Button_17596215_31FA_0014_41C6_A42670770708_mobile.label = Lorem Ipsum
+Button_159EFDDC_31FA_0014_41C6_9CF7032F84E0_mobile.label = Lorem ipsum
+Button_168DE310_3106_01EC_4192_6A9F468A0ADE.label = Lorem ipsum
+Button_17592215_31FA_0014_41B2_AA3B5CC318B8_mobile.label = Lorem ipsum
+Button_159EFDDC_31FA_0014_41C6_9CF7032F84E0.label = Lorem ipsum
+Button_17561D7D_31FA_0015_41B5_BD72FAC26B8B.label = Lorem ipsum
+Button_17561D7D_31FA_0015_41B5_BD72FAC26B8B_mobile.label = Lorem ipsum
+Button_17592215_31FA_0014_41B2_AA3B5CC318B8.label = Lorem ipsum
+Button_17EB42B7_3106_0014_41B0_CE70CBDDF438.label = Lorem ipsum
+Button_168DE310_3106_01EC_4192_6A9F468A0ADE_mobile.label = Lorem ipsum
+Button_17EB42B7_3106_0014_41B0_CE70CBDDF438_mobile.label = Lorem ipsum
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D_mobile.label = Main Entrance
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D.label = Main Entrance
+Button_2A2C053B_310E_001C_41A2_583DE489828C_mobile.label = Meeting Area 1
+Button_2A2C053B_310E_001C_41A2_583DE489828C.label = Meeting Area 1
+Button_2A2C753B_310E_001C_41C4_B649CCC20E3D_mobile.label = Meeting Area 2
+Button_2A2C753B_310E_001C_41C4_B649CCC20E3D.label = Meeting Area 2
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = RECEPTION >
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB_mobile.label = RESTAURANTS >
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = ROOMS >
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.label = Reception
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E_mobile.pressedLabel = Reception
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.pressedLabel = Reception
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E_mobile.label = Reception
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.label = SPORTS AREA >
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.label = SWIMMING POOL >
+Button_15F5A318_3106_001C_41C5_9AA2EF2184CF_mobile.label = Terrace
+Button_15F5A318_3106_001C_41C5_9AA2EF2184CF.label = Terrace
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile_en.jpg
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_en.png
+Image_1E18723C_57F1_802D_41C5_8325536874A5.url = skin/Image_1E18723C_57F1_802D_41C5_8325536874A5_en.jpg
+Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1.url = skin/Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1_en.jpg
+Image_4AE43CDD_5EE8_88F7_41B0_426EA5B4F51F.url = skin/Image_4AE43CDD_5EE8_88F7_41B0_426EA5B4F51F_en.jpg
+Image_4AE4FCDD_5EE8_88F7_41AE_7B34348A877D.url = skin/Image_4AE4FCDD_5EE8_88F7_41AE_7B34348A877D_en.jpg
+Image_4C0C0CF8_5EE8_88BE_41D1_9925B6B656C3.url = skin/Image_4C0C0CF8_5EE8_88BE_41D1_9925B6B656C3_en.jpg
+Image_9E2ED9AB_881A_8790_41D3_04610E2431AA.url = skin/Image_9E2ED9AB_881A_8790_41D3_04610E2431AA_en.png
+
+### Label
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = By Cognitive Botics
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8_mobile.text = DOLOR SIT AMET, CONSECTETUR
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83_mobile.text = LOREM IPSUM
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = Park Virtual Tour
+
+### Multiline Text
+HTMLText_4AE4BCDD_5EE8_88F7_41A5_FD2F970F1FDC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.3100000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.31vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.06vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.06vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.579999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.58vmin;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.579999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.58vmin;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0799999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.08vmin;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.83vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3099999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3099999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0799999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vmin;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3099999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3099999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3099999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3099999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3099999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0799999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vmin;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5000000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vmin;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_4C0C3CF8_5EE8_88BE_41D5_8EEACF3D5601.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.42vmin;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.42vmin;font-family:'Oswald';"><B><I>DOLOR SIT AME</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.83vmin;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.189999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.19vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.189999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.19vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.3100000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.31vmin;"> </SPAN><SPAN STYLE="font-size:3.19vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.189999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.19vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.189999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.19vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.189999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.19vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.189999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.19vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.83vmin;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_1E18123C_57F1_802D_41D2_B0CD0D6533F4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.36vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.36vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.769999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.77vh;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.769999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.77vh;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
+HTMLText_1E18423C_57F1_802D_41C4_458DB7F892AC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.58vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.58vh;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.2699999999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.27vh;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.8vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1100000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1100000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1100000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2499999999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.25vh;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_4AE4DCDD_5EE8_88F7_41D1_3A00BC21E997.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.000000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10vmin;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.559999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.56vmin;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.25vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.3100000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.31vmin;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.3100000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.31vmin;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.3100000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.31vmin;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.25vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.25vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.25vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.25vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_903A90AD_88F7_8590_41D5_0BF4EB624586.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
